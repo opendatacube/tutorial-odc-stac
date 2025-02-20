@@ -2,3 +2,4 @@ geopandas
 ipykernel
 odc-stac
 pystac_client
+folium
