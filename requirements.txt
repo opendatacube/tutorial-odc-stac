@@ -1,5 +1,7 @@
 python=3.9
 geopandas
 ipykernel
+odc-geo
 odc-stac
-pystac_client
+planetary-computer
+pystac-client
