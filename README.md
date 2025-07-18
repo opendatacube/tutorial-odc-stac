@@ -58,6 +58,7 @@ Then, activate your environment if you haven't previously done so.
 
 The tutorial notebook contains empty cells for you to write code. 
 The code you will need is available from the Open Data Cube docs [tutorial page](https://opendatacube.readthedocs.io/en/latest/tutorials/odc-stac.html).
+Alternatively, the code is also contained in the `tutorial_solution.ipynb` notebook.
 
 ## Area of interest
 By default, this repository contains an `aoi.geojson` file that covers the southern part of Isla Isabela, one of the islands in the Galapagos.
