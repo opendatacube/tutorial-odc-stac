@@ -1,7 +1,6 @@
 geopandas
 ipykernel
+odc-geo
 odc-stac
-pystac_client
-folium
-matplotlib
-mapclassify
+planetary-computer
+pystac-client
