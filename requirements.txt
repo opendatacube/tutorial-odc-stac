@@ -1,5 +1,6 @@
 geopandas
 ipykernel
+matplotlib
 odc-geo
 odc-stac
 planetary-computer

@@ -8,6 +8,7 @@ dependencies:
 - odc-stac >=0.4.0,<0.5
 - ipykernel >=6.29.5,<7
 - odc-geo >=0.5.0rc1,<0.6
+- matplotlib >=3.10.3,<4
 - pip
 - pip:
   - pystac-client>=0.8.6, <0.9
