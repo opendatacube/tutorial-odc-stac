@@ -26,19 +26,17 @@ To launch a binder instance for this tutorial, click the button below:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opendatacube/tutorial-odc-stac/main?urlpath=%2Fdoc%2Ftree%2Ftutorial.ipynb)
 
 ## Option 2: Running on a local computer
-
-We provide an environment.yaml and requirements.txt file that detail the small number of required libraries for this tutorial. 
+We provide an `environment.yaml` and `requirements.txt` file that detail the small number of required libraries for this tutorial. 
 Follow the steps below to set up the tutorial on your own computer.
 
 ### 1. Clone the repository
 Open a terminal and navigate to the directory where you'd like to keep the repository.
 Then run
-```
-git clone https://github.com/opendatacube/tutorial-odc-stac
+```shell
+git clone https://github.com/opendatacube/tutorials.git
 ```
 
 ### 2. Install required packages
-
 Set up a python environment with Python 3.9 or greater. 
 Then, install the necessary packages with pip or conda:
 
@@ -54,12 +52,15 @@ conda env create -f environment.yml
 
 Then, activate your environment if you haven't previously done so.
 
-### 3. Open the `tutorial.ipynb` notebook and work through the cells.
+### 3. Complete the odc-stac tutorial
+Open the `odc-stac` folder in the repository.
+This contains the `tutorial.ipynb` notebook, which you will edit and run as part of completing the tutorial.
+Open the `tutorial.ipynb` notebook.
 
 The tutorial notebook contains empty cells for you to write code. 
 The code you will need is available from the Open Data Cube docs [tutorial page](https://opendatacube.readthedocs.io/en/latest/tutorials/odc-stac.html).
 Alternatively, the code is also contained in the `tutorial_solution.ipynb` notebook.
 
 ## Area of interest
-By default, this repository contains an `aoi.geojson` file that covers the southern part of Isla Isabela, one of the islands in the Galapagos.
+By default, this repository contains an `aoi.geojson` file that covers La Gomera, one of the Canary Islands.
 A different area of interest can be chosen by replacing the contents of `aoi.geojson` with a new geojson.
