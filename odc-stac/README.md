@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opendatacube/tutorial-odc-stac/main?urlpath=%2Fdoc%2Ftree%2Ftutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opendatacube/tutorials/main?urlpath=%2Fdoc%2Ftree%2Fodc-stac%2Ftutorial.ipynb)
 # tutorial-odc-stac
 
 In this tutorial we will use Python libraries to find and load land cover data from the freely available [Impact Observatory Annual Land Use Land Cover](https://planetarycomputer.microsoft.com/dataset/io-lulc-annual-v02) product.
