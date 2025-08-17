@@ -23,7 +23,7 @@ You can see the full solution in `tutorial_solution.ipynb`.
 Binder provides an executable environment for running Jupyter notebooks. 
 To launch a binder instance for this tutorial, click the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opendatacube/tutorial-odc-stac/main?urlpath=%2Fdoc%2Ftree%2Ftutorial.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/opendatacube/tutorials/main?urlpath=%2Fdoc%2Ftree%2Fodc-stac%2Ftutorial.ipynb)
 
 ## Option 2: Running on a local computer
 We provide an `environment.yaml` and `requirements.txt` file that detail the small number of required libraries for this tutorial. 
